@@ -1,0 +1,36 @@
+# --- Phyton ---
+__pycache__/
+*.py[code]
+*.pyo
+*.pyd
+*.pyd
+*.pkl
+*.lög
+
+# --- Virtuelle Umgebungen ---
+venv/
+env/
+.venv/
+.env/
+
+# --- Distribution / Packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Test / Coverage ---
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# --- IDE/Editor ---
+.vscode
+.idea/
+*.swp
+*.swo
+
+# --- System Files ---
+.DS_Store
+Thumbs.db

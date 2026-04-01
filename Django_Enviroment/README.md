@@ -1,0 +1,1 @@
+Das ist ein Übungsprojekt -- Für Richtigkeit und Fehlerfreiheit wird keine Gewähr übernommen. 
